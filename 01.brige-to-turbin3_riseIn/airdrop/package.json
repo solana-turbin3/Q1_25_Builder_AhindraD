@@ -1,0 +1,25 @@
+{
+  "name": "airdrop",
+  "version": "1.0.0",
+  "description": "solana client side operations",
+  "main": "index.js",
+  "author": "AhindraD",
+  "license": "MIT",
+  "scripts": {
+    "keygen": "ts-node ./keygen.ts",
+    "airdrop": "ts-node ./airdrop.ts",
+    "transfer": "ts-node ./transfer.ts",
+    "enroll": "ts-node ./enroll.ts"
+  },
+  "dependencies": {
+    "@coral-xyz/anchor": "0.30.0",
+    "@solana/web3.js": "1.91.8",
+    "@types/node": "^22.10.2",
+    "bs58": "^6.0.0",
+    "rpc-websockets": "7.11.0",
+    "typescript": "^5.7.2"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2"
+  }
+}
