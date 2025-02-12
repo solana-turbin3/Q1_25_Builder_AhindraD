@@ -6,7 +6,7 @@ Proof Of Work During My Time In TURBIN3 Builders Cohort Q1 2025 🦀
 
 - # CAPSTONE: PrismPapers - Decentralized Research Platform
   ## Architecture Diagram:
-![image](https://gist.github.com/user-attachments/assets/2e0c860a-01a5-4367-9100-934844fa8ce6)
+  ![image](https://github.com/user-attachments/assets/86a1cd32-c743-46d0-aa94-300dd0d7981d)
 
 [View on Eraser](https://app.eraser.io/workspace/srtYuk9xciXjH6IUKwJs)
 
