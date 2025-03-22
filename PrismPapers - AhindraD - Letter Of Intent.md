@@ -65,16 +65,34 @@
 
 - **Project Timeline:**
 
-  - **Week 1:** Finalize platform design and architecture. Start building the basic landing page with Next.js.
-  - **Week 2:** Develop Solana programs using Anchor and set up the token-based rewards system for both researchers and reviewers.
-  - **Week 3:** Integrate front-end with Solana programs and implement IPFS/Arweave for storage. Begin testing with Trident.
-  - **Week 4:** Conduct rigorous testing and debugging. Launch the platform and onboard some initial users.
-  - **Week 5:** Judgement Day! <Feb. 25 - Demo>
+- **Solana Program Development & Testing:**
+  - Completed the development of the Solana program.
+  - Successfully executed integration tests.
+  - Deployed to devnet (see deployed program on [Solana Explorer](https://explorer.solana.com/address/5MRvAZkDQK1u27EEzrdpKS6uUKsGqEPRkztZVapcTcLv?cluster=devnet)).
+
+- **Frontend Development:**
+  - Currently building the platform’s front-end using Next.js.
+  - Integrating asynchronous encryption to protect content before deployment.
+
+- **Mainnet Launch Preparation:**
+  - Finalize frontend integration with the Solana program.
+  - Deploy to Solana mainnet alongside the fully functional frontend.
+  - Target launch date: May 12, 2025.
+
+- **Post-Launch Goals:**
+  - Onboard initial users (researchers, reviewers, and institutions) and track engagement.
+  - Collect user feedback for continuous improvements.
+  - Monitor key performance indicators (e.g., active monthly users, engagement rates) and iterate based on results.
+
+
+- **Primary Key Performance Indicator:**\
+  For PrismPapers, the primary KPI will be **active monthly users (AMUs)**—a combined count of researchers, reviewers, and institutional users actively engaging       with the platform. Success will be defined as reaching **1,000 AMUs within the first six months** after launch, coupled with a robust engagement rate (e.g., at     least two completed peer reviews per paper submission). This metric not only gauges user adoption but also reflects the platform’s effectiveness in fostering a     lively, transparent, and value-driven academic community.
+
 
 - **Commitment:**\
   I’m all in on making PrismPapers happen! This project isn’t just about tech; it’s about creating a better, faster, and more open way for researchers to share their work. Make R&D Great Again!
 
+
 - **Initials:**\
   A.D.
 
-![image](https://gist.github.com/user-attachments/assets/e2519ceb-5fca-4b1c-93d6-6fe24ff89c57)
