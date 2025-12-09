@@ -10,3 +10,6 @@
 [submodule "PrismPapersDesci-Obsolete"]
 	path = PrismPapersDesci-Obsolete
 	url = https://github.com/AhindraD/prism-papers-desci.git
+[submodule "00.PrismPapers-DeSci-CapstoneDapp"]
+	path = 00.PrismPapers-DeSci-CapstoneDapp
+	url = https://github.com/AhindraD/prism-papers-dapp.git
